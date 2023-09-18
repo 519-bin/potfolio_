@@ -1,2 +1,3 @@
 printf = "Hello Word";
 printf = "나도 할래";
+printf = "내성질까먹었나보네";
